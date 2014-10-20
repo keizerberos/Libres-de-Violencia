@@ -11,7 +11,7 @@ Hay algunas pautas que necesitamos contribuyentes a seguir para la contribucion 
 ## Empezando
 
 * Asegúrese de que tener una  [Cuenta en GitHub](https://github.com/signup/free)
-* Presentar una [un cambio]https://github.com/Fanatic-Code/mujer-libre-de-violencia/wiki/issues), asumiendo uno no existe ya.
+* Presentar una [un cambio](https://github.com/Fanatic-Code/mujer-libre-de-violencia/wiki/issues), asumiendo uno no existe ya.
    * Describa claramente el problema incluyendo pasos para reproducir cuando se trata de un error.
    * Asegúrese de llenar en la versión más antigua que se conoce tiene el problema.
 * Fork del repositorio en GitHub.
