@@ -1,16 +1,16 @@
 #  ¿Cómo Contribuir?
 
 CakePHP encanta dar la bienvenida a sus contribuciones. Hay varias maneras de ayudar:
-* Crear una [Pregunta]https://github.com/Fanatic-Code/mujer-libre-de-violencia/wiki/issues) en GitHub, si usted ha encontrado un error
+* Crear una [Pregunta](https://github.com/Fanatic-Code/mujer-libre-de-violencia/wiki/issues) en GitHub, si usted ha encontrado un error
 * Casos de prueba de escritura para problemas de bichos abierta
 * Parches de escritura para asuntos bug / funciones abiertos, preferiblemente con casos de prueba incluidos
-* Contribuir a la [documentación](https://github.com/Fanatic-Code/mujer-libre-de-violencia/wiki/docs)
+* Contribuir a la  [documentación](https://github.com/Fanatic-Code/mujer-libre-de-violencia/wiki/docs)
 
 Hay algunas pautas que necesitamos contribuyentes a seguir para la contribucion todo en la parte de arriba.
 
 ## Empezando
 
-* Asegúrese de que tener una [Cuenta en GitHub](https://github.com/signup/free).
+* Asegúrese de que tener una  [Cuenta en GitHub](https://github.com/signup/free)
 * Presentar una [un cambio]https://github.com/Fanatic-Code/mujer-libre-de-violencia/wiki/issues), asumiendo uno no existe ya.
    * Describa claramente el problema incluyendo pasos para reproducir cuando se trata de un error.
    * Asegúrese de llenar en la versión más antigua que se conoce tiene el problema.
